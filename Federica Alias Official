@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Federica Alis | Official Links</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #0d0d0d;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .profile-pic {
+            width: 110px;
+            height: 110px;
+            border-radius: 50%;
+            border: 2px solid #fff;
+            margin-bottom: 15px;
+            object-fit: cover;
+        }
+        h1 {
+            font-size: 22px;
+            margin-bottom: 30px;
+            letter-spacing: 1px;
+        }
+        .link-container {
+            width: 100%;
+            max-width: 400px;
+        }
+        .link-card {
+            background-color: transparent;
+            border: 1px solid #ffffff;
+            color: #ffffff;
+            text-decoration: none;
+            display: block;
+            padding: 18px;
+            margin-bottom: 15px;
+            text-align: center;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .link-card:hover {
+            background-color: #ffffff;
+            color: #000000;
+        }
+        .disclaimer {
+            font-size: 12px;
+            color: #666;
+            margin-top: 40px;
+            text-align: center;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="https://via.placeholder.com/150" alt="Federica Alis" class="profile-pic">
+    
+    <h1>@federicaalis</h1>
+
+    <div class="link-container">
+        <a href="https://onlyfans.com/federicaalis?rec=524586367" class="link-card" target="_blank">
+            Contenuti Esclusivi 🔥
+        </a>
+
+        <a href="https://t.me/+MOxKm5jAldExMDFk" class="link-card" target="_blank">
+            Canale Telegram 📢
+        </a>
+    </div>
+
+    <div class="disclaimer">
+        L'accesso ai contenuti è riservato a un pubblico maggiorenne (+18). 
+        Tutti i diritti riservati.
+    </div>
+
+</body>
+</html>
